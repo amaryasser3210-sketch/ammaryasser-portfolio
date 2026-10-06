@@ -8,7 +8,7 @@ window.SITE = {
     fullName: "Ammar Yasser Mohamed Abd-El Aal",
     role: "Mechatronics Engineer",
     tagline: "R&D · Robotics · Electric mobility",
-    siteUrl: "https://ammaryasser3210-sketch.github.io",
+    siteUrl: "https://amaryasser3210-sketch.github.io",
     ogImage: "assets/og-image.png"
   },
 
