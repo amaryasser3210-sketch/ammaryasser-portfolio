@@ -9,7 +9,7 @@ window.SITE = {
     role: "Mechatronics Engineer",
     tagline: "R&D · Robotics · Electric mobility",
     siteUrl: "https://amaryasser3210-sketch.github.io",
-    ogImage: "assets/og-image.png"
+    ogImage: "assets/og-image.jpg"
   },
 
   links: {
