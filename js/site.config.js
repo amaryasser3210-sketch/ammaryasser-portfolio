@@ -13,7 +13,7 @@ window.SITE = {
   },
 
   links: {
-    linkedin: "https://www.linkedin.com/in/ammar-yasser-2505bb19a/",
+    linkedin: "https://www.linkedin.com/in/ammaryassermohamed/",
     email: "amaryasser3210@gmail.com",
     phone: "+201061769179",
     phoneDisplay: "+20 106 176 9179",
@@ -30,7 +30,7 @@ window.SITE = {
     avatar: "assets/avatar.webp",
     facts: [
       { label: "Based in", value: "Giza, Egypt" },
-      { label: "Current role", value: "Tech Team Leader, Trophy Technologies" },
+      { label: "Current role", value: "Embedded and Electronics Engineer, Trophy Technologies" },
       { label: "Focus", value: "Electric mobility & embedded R&D" }
     ],
     ctas: [
@@ -44,13 +44,13 @@ window.SITE = {
     paragraphs: [
       "I am a mechatronics engineering undergraduate (2022–2027) who enjoys the full path of a product: concept sketches, CAD and simulation, then firmware and boards that make it move.",
       "My experience spans mechanical design with SolidWorks and Fusion 360, mechatronic system design stages — modelling, verification and validation — plus embedded work on ESP32-S2 and AVR platforms, battery pack design with MATLAB/Simulink, and PCB design.",
-      "I currently lead the technical team of the R&D department at Trophy Technologies, covering embedded systems, software and simulation teams."
+      "I currently work at Trophy Technologies as an Embedded and Electronics Engineer in the R&D department, covering embedded systems, software and simulation."
     ],
     facts: [
       { label: "Education", value: "BEng Mechatronics, Ain Shams University" },
       { label: "Experience", value: "Startups, competitions & Fab Lab operations" },
       { label: "Languages", value: "Arabic (native), English (professional)" },
-      { label: "Status", value: "Tech Team Leader @ Trophy Technologies" }
+      { label: "Status", value: "Embedded and Electronics Engineer @ Trophy Technologies" }
     ]
   },
 
@@ -99,16 +99,16 @@ window.SITE = {
         title: "Battery Pack Design & SoC Node",
         org: "Trophy Technologies",
         year: "2026",
-        role: "Tech Team Leader, R&D",
+        role: "Embedded and Electronics Engineer",
         tags: ["Embedded", "Battery", "PCB"],
         cover: "assets/projects/trophy-battery-soc/cover.webp",
         summary:
-          "Battery pack design and an ESP32-S2 node that reports state-of-charge over MQTT, developed while leading the R&D technical teams.",
+          "Battery pack design and an ESP32-S2 node that reports state-of-charge over MQTT, developed within the R&D team.",
         highlights: [
           "Battery modelling with MATLAB/Simulink Battery Builder",
           "State-of-charge estimation firmware on ESP32-S2",
           "PCB design for the monitoring node",
-          "MQTT telemetry; leads embedded, software & simulation teams"
+          "MQTT telemetry for the monitoring node"
         ],
         links: []
       },
@@ -165,10 +165,10 @@ window.SITE = {
     items: [
       {
         kind: "work",
-        title: "Tech Team Leader · R&D Department",
+        title: "Embedded and Electronics Engineer",
         org: "Trophy Technologies (start-up)",
         period: "Jun 2026 – Present",
-        detail: "Lead the technical team of the R&D department — embedded systems, software and simulation teams. Battery design, MATLAB Battery Builder, ESP32-S2 SoC, PCB design, MQTT."
+        detail: "Embedded and electronics engineering in the R&D department — battery design, MATLAB Battery Builder, ESP32-S2 SoC, PCB design and MQTT telemetry."
       },
       {
         kind: "work",
